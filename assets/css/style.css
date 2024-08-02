@@ -29,7 +29,8 @@ body{
 	left:0;
 	right:0;
 	bottom:0;
-	background-color:#34568d;
+	background-color:rgb(0,0,0,0.2);
+	backdrop-filter:blur(20px);
 }
 
 .movieOverview{
@@ -55,6 +56,3 @@ body{
 	display:inline-block;
 }
 
-.movieOverview h4{
-	text-align:center;
-}
