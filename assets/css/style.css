@@ -54,3 +54,7 @@ body{
 .rating span{
 	display:inline-block;
 }
+
+.movieOverview h4{
+	text-align:center;
+}
